@@ -30,7 +30,7 @@ img[alt*="Kitty 5"] {
 img:last-child {
   position: absolute;
   z-index: 4;
-  top: 460px;
+  top: 260px;
   left: 455px;
 }
 
@@ -39,6 +39,6 @@ img:last-child {
 #basket img {
   position: absolute;
   z-index: 3;
-  top: 217px;
+  top: 417px;
   left: 223px;
 }
