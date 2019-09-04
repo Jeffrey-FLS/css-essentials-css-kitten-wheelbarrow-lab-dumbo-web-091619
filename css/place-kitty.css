@@ -21,7 +21,7 @@
 img[alt*="Kitty 5"] {
   position: absolute;
   z-index: 5;
-  top: 491px;
+  top: 291px;
   left: 319px;
 }
 
@@ -30,7 +30,7 @@ img[alt*="Kitty 5"] {
 img:last-child {
   position: absolute;
   z-index: 4;
-  top: 260px;
+  top: 460px;
   left: 455px;
 }
 
